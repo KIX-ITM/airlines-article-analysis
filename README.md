@@ -20,13 +20,13 @@
 
 airlines-article-analysis.pbix
 
-![完成品](C:\Users\watas\PycharmProjects\airlines-article-analysis\image\完成品.PNG)
+<img src="image\完成品.PNG" alt="完成品" />
 
 
 
 ## モデルビュー
 
-<img src="C:\Users\watas\PycharmProjects\airlines-article-analysis\image\モデルビュー.PNG" alt="モデルビュー" style="zoom:80%;" />
+<img src="\image\モデルビュー.PNG" alt="モデルビュー" style="zoom:80%;" />
 
 
 
