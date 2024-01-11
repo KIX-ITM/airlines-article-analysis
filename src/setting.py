@@ -1,0 +1,10 @@
+REQUEST_URL = "https://www.traicy.com/category/airline/page/"
+DIR_PATH = "../data"
+RAW_DATA_FILE_PATH_FOR_SCRAPING = DIR_PATH + "/article_title_raw_data_"
+RAW_DATA_FILE_PATH = DIR_PATH + "/article_title_raw_data.csv"
+TITLE_FILE_PATH = DIR_PATH + "/article_titles.csv"
+GROUP_FILE_PATH = DIR_PATH + "/groups.csv"
+SIMILARITY_FILE_PATH = DIR_PATH + "/similarities.csv"
+NAMED_ENTITY_FILE_PATH = DIR_PATH + "/named_entities.csv"
+ARTICLE_TAG_FILE_PATH = DIR_PATH + "/article_tag.csv"
+RAW_DATA_HEADER = ["title", "datetime"]
